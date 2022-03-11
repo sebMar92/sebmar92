@@ -35,13 +35,16 @@
 <h3 align="left">📌Proyects:</h3>
 <h4>Dogs App</h4>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
-![Dogs App screenshot 1](https://github.com/sebMar92/sebmar92/blob/main/images/p1.png)
-![Dogs App screenshot 2](https://github.com/sebMar92/sebmar92/blob/main/images/p2.png)
-![Dogs App screenshot 3](https://github.com/sebMar92/sebmar92/blob/main/images/p3.png)
-![Dogs App screenshot 4](https://github.com/sebMar92/sebmar92/blob/main/images/p4.png)
+<p float="left">
+<a> <img src="https://github.com/sebMar92/sebmar92/blob/main/images/dogsApp/p1.png" width="500" height="285"> </a>
+<a> <img src="https://github.com/sebMar92/sebmar92/blob/main/images/dogsApp/p2.png" width="500" height="285"> </a>
+<a> <img src="https://github.com/sebMar92/sebmar92/blob/main/images/dogsApp/p3.png" width="500" height="285"> </a>
+<a> <img src="https://github.com/sebMar92/sebmar92/blob/main/images/dogsApp/p4.png" width="500" height="285"> </a>
+</p>
 <br>
 <h4>E-Commerce</h4>
-<p>💬 Working on it!
+<p>💬 Working on it! 
+<br>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - Typescript - TailwindCSS</p>
 
 ---
