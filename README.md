@@ -45,7 +45,7 @@
 <h4>E-Commerce</h4>
 <p>💬 Working on it! 
 <br>
-Technologies: Node.JS - Express - PostgreSQL - React - Redux - Typescript - TailwindCSS</p>
+Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 
 ---
 
