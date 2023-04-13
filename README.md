@@ -28,7 +28,6 @@
 </p>
 <h4>Currently mastering:</h4>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="35" height="35"/> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="35"/> 
 </p>
