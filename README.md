@@ -14,7 +14,7 @@
 <h4>Backend:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="background-color: white;" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="background-color: white;" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" class="white-background" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="35" height="35"/>
 </p>
@@ -58,3 +58,15 @@ Email: <a href="mailto:sebmar92@gmail.com">sebmar92@gmail.com</a>
 Linkedin: <a href="https://www.linkedin.com/in/sebastian-martinez-developer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/sebastian-martinez-developer/" height="20" width="20" /></a>
 
 </p>
+
+<style>
+.white-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+</style>
