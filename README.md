@@ -58,15 +58,3 @@ Email: <a href="mailto:sebmar92@gmail.com">sebmar92@gmail.com</a>
 Linkedin: <a href="https://www.linkedin.com/in/sebastian-martinez-developer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/sebastian-martinez-developer/" height="20" width="20" /></a>
 
 </p>
-
-<style>
-.white-background::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: white;
-}
-</style>
